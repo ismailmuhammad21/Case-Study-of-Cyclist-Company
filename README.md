@@ -1,1 +1,2 @@
 # Case-Study-of-Cyclist-Company
+# This project includes a comprehensive case study of a well-known bicycle company in the United States. This case study covers a variety of topics, including consumer behaviour, likes and dislikes, and using data analysis skills to find the best possible outcomes from raw data, which can make data-driven decisions more efficient and persuade users to purchase annual memberships rather than use bikes on a casual basis.
